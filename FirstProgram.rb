@@ -1,4 +1,4 @@
-file "This.txt" do
+file "This is test for git lab.txt" do
 	action	:create
 end
 
